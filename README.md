@@ -1,5 +1,3 @@
+# wedding
 
-
-commit2
-
-Creating a new branch is quick.
+[演示链接](https://sunweiling.github.io/wedding/)
